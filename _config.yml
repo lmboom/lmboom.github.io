@@ -28,6 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Skills: <mark>GO(Golang)</mark>  <mark>PHP(Laravel, Symfony)</mark>  <mark>Docker</mark>  <mark>ELK</mark>  <mark>MQ(Kafka, RabbitMQ)</mark>
 
+
 # Projects Section
 # projects_title: Projects
 
@@ -58,3 +59,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+darkmode: true
