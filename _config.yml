@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Mehrob and I'm a backend developer. I also have experience in DEVOPS. Contact me for more information :).
 
-  Skills: <mark>GO(Golang)</mark>  <mark>PHP(Laravel, Symfony)</mark>  <mark>Docker</mark>  <mark>ELK</mark>  <mark>MQ(Kafka, RabbitMQ)</mark>
+  Skills: <mark>GO(Golang)</mark>  <mark>PHP(Laravel, Symfony)</mark>  <mark>Docker</mark> <mark>CI/CD</mark> <mark>ELK</mark>  <mark>MQ(Kafka, RabbitMQ)</mark>
 
 
 # Projects Section
