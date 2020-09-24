@@ -27,7 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Mehrob and I'm a backend developer. I also have experience in DevOps and Frontend.
 
   Skills: <mark>GO(Golang)</mark>  <mark>PHP(Laravel, Symfony)</mark>  <mark>Docker</mark> <mark>CI/CD</mark> <mark>ELK</mark>  <mark>MQ(Kafka, RabbitMQ)</mark>
-  Frontend: <mark>CSS</mark>  <mark>JS(VueJS, ReactJS)</mark>
+  | Frontend: <mark>CSS</mark>  <mark>JS(VueJS, ReactJS)</mark>
 
 # Projects Section
 # projects_title: Projects
