@@ -9,25 +9,25 @@ email: popkorn.passport@gmail.com
 website: github.com/lmboom
 
 # Social links
-twitter_username: lmboom
+#twitter_username: lmboom
 github_username:  lmboom
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: lmboom
+#instagram_username: lmboom
 linkedin_username: lmboom
 # pinterest_username: jekyll
-youtube_username: lbmoom
+#youtube_username: lbmoom
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Mehrob and I'm a backend developer. I also have experience in DEVOPS. Contact me for more information :).
+  Hi, my name's Mehrob and I'm a backend developer. I also have experience in DevOps and Frontend.
 
   Skills: <mark>GO(Golang)</mark>  <mark>PHP(Laravel, Symfony)</mark>  <mark>Docker</mark> <mark>CI/CD</mark> <mark>ELK</mark>  <mark>MQ(Kafka, RabbitMQ)</mark>
-
+  Frontend: <mark>CSS</mark>  <mark>JS(VueJS, ReactJS)</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -41,11 +41,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Also I like:
+   - Pizza
+   - Gym
+   - IOS development
 
 # Footer
 footer_show_references: true
